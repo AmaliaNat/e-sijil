@@ -1,3 +1,32 @@
-save in:
-local disk C:  -> xampp -> htdocs -> here
+What the project does
+- This is the first website I've fully developed and designed for a project during my Diploma studies. E-sijil is an initiative designed 
+to automatically generate certificates for school events. The website allows user to generate and print certificates, keep track and manage the
+certificates they had generated and add signature of school caunselor.
 
+
+Why the project is useful
+- E-sijil provides a faster alternative to generate certificates. The old traditional way requires a person in charge to enter the information
+of every certificates receiver manually using software such Adobe Photoshop or Microsoft Words. This process is hasty and time consuming. E-sijil 
+provides solutions by allowing certicates to be generated in just few clicks. 
+
+
+How users can get started with the project
+*xampp is required to run this web properly
+For the file (for Windows only)
+1. Go to OS (C:)
+2. Click on xampp
+3. Click on htdocs
+4. Paste the archive and click "Extract here"
+5. The file titled "e-sijil" should be there in (C:/xampp/htdocs)
+
+For Database
+1.Create a new database, name it "e-sijil"
+2.Click on import and import e.nilam.sql located in e-sijil/website/sql folder
+
+For Website
+1.Open web browser
+2.GO TO : http://localhost/e-sijil/website/login.html
+
+For login
+username : Amaliax28
+password: test
